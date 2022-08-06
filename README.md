@@ -2,4 +2,8 @@
 
 This UI allow you to update winget application via Simple GUI.
 
-Written in C# in .NET 6.0
+### Enviroment
+Written in C# in .NET 6.0 using Visual Studio 2022
+
+### License
+MIT License
