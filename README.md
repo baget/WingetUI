@@ -1,4 +1,4 @@
-﻿# 💻 Winget UI - Quick and Dirty Winget UI for Updates 💻
+﻿# 💻 Winget UI - Quick and Dirty Winget UI for Updates
 
 This UI allow you to update winget application via Simple GUI.
 
