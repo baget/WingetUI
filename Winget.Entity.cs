@@ -19,7 +19,7 @@ namespace WingetUI
             public string AvailableVersion { get => availableVersion; set => availableVersion = value; }
             public string Source { get => source; set => source = value; }
 
-            private string GetDebuggerDisplay() => ToString();
+            private string? GetDebuggerDisplay() => ToString();
         }
     }
 }
