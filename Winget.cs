@@ -43,8 +43,8 @@ namespace WingetUI
                 {
                     Winget.Entity entity = new()
                     {
-                        Name = lines[i].Substring(0, 49).Trim(),
-                        Id   = lines[i].Substring(49, 34).Trim(),
+                        Name = lines[i].Substring(0, 54).Trim(),
+                        Id   = lines[i].Substring(54, 29).Trim(),
                         Version = lines[i].Substring(83, 17).Trim(),
                         AvailableVersion = lines[i].Substring(100, 13).Trim(),
                         Source = lines[i].Substring(113).Trim(),
